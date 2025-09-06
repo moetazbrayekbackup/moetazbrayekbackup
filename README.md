@@ -2,7 +2,7 @@
 
 **💻 Software Engineer | 🚀 Tech Lead**  
 
-📍 Ariana, Tunisia  
+📍 N/A  
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:moetaz.brayek.eng@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/moetaz-brayek)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/moetazbrayekbackup)
